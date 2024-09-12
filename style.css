@@ -127,3 +127,12 @@ h1{
     transform: translate(900px, 10px);
     transition: opacity 0.6s ease-out, transform 0.6s ease-out;
 }
+.skill{
+    color: rgb(0, 0, 0);
+    font-family: "Poppins";
+    font-size: 100px;
+    font-weight: 550;
+    position: absolute;
+    transform: translate(850px, 400px);
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
